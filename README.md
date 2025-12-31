@@ -1,5 +1,8 @@
 <a href="[https://www.facebook.com/zubaer.hossain/](https://www.facebook.com/zubaer.hossain/)">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zubaer-developer/zubaer-developer/main/assets/banner.png" 
+       alt="Zubaer Developer Banner" />
+</p>
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
