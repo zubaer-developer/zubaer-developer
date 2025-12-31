@@ -65,7 +65,11 @@ I am a dedicated Frontend Developer with a strong passion for building beautiful
 
 ## 📊 GitHub Streak
 
-<p align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=zubaer-developer&theme=monokai&border_radius=50)](https://git.io/streak-stats)</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=zubaer-developer&theme=monokai&border_radius=50" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
