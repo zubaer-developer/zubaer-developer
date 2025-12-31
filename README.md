@@ -63,19 +63,9 @@ I am a dedicated Frontend Developer with a strong passion for building beautiful
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zubaer-developer&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubaer-developer&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubaer-developer&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=zubaer-developer)](https://git.io/streak-stats)
 
 ---
 
