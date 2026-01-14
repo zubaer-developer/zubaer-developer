@@ -65,7 +65,7 @@ I am a dedicated Frontend Developer with a strong passion for building beautiful
 
 ## 📊 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zubaer-developer)](https://git.io/streak-stats)
+![My GitHub Stats](https://zubaer-developer.vercel.app/api?username=zubaer-developer&show_icons=true&theme=dracula&hide=contribs,issues&card_width=500)
 
 ---
 
